@@ -1,4 +1,4 @@
-# tragedyofthecoWmmons
+# Tragedy of the Co(w)mmons
 An exploration of parallelism in Go, using the example of monte-carlo simulated cows feeding on a a 2-d board of "grass."
 
 The first cow, Clarabelle, has no preference for direction when she moves.  She is equally likely to move in any direction at all times.  Let p be the probability that she moves in a direction.
